@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Igor Sokół
+- 👋 Hi, I’m Igor
 - 🌱 I’m currently learning C++ and python with Django framework
 
 <!---

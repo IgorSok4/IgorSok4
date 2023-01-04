@@ -1,6 +1,4 @@
 <img src="banner_mount_stars_purple.gif" alt="baner" style="width:1280px;height:420px">
-<h1 align="center">Hi, I'm Igor</h1>
-<h3 align="center">2nd year IT student, Aspiring back-end developer</h3>
 
 - 🔭 I’m currently working on **Django web apps**
 

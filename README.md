@@ -1,5 +1,7 @@
 <img src="banner_mount_stars_purple.gif" alt="baner" style="width:1280px;height:420px">
 
+- 🧑‍🎓 IT student at the Pedagogical University of Krakow 
+
 - 🔭 I’m currently working on **Django web apps**
 
 - 🌱 I’m currently learning **Django, Rasa, OOP**

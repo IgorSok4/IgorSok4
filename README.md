@@ -1,5 +1,3 @@
-<img src="banner_mount_stars_purple.gif" alt="baner" style="width:1280px;height:420px">
-
 - ✈️ I work for Lufthansa Group Business Services in the **IT Product Management** team.
 
 - 🧑‍🎓 IT student at the University of the National Education Commission, Krakow 

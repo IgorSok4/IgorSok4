@@ -1,10 +1,12 @@
 <img src="banner_mount_stars_purple.gif" alt="baner" style="width:1280px;height:420px">
 
-- 🧑‍🎓 IT student at the Pedagogical University of Krakow 
+- ✈️ I work for Lufthansa Group Business Services in the **IT Product Management** team.
 
-- 🔭 I’m currently working on **Django web apps**
+- 🧑‍🎓 IT student at the University of the National Education Commission, Krakow 
 
-- 🌱 I’m currently learning **Django, OOP**
+- 🔭 I’m currently working on **Microsoft Power Platform Apps and Automations**
+
+- 🌱 I’m currently learning **Django, Power Platform**
 
 - 📫 How to reach me **sok.igor4@gmail.com**
 
